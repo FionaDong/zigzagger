@@ -14,6 +14,7 @@ public class ProtectedTest {
 		System.out.println("-----------------------");
 
 		int[] a = new int[10];
+		
 		int a1[] = new int[10];
 
 		int[][] a3 = new int[2][3];
